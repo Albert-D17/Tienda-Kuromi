@@ -1,0 +1,3 @@
+1;Celular Kuromi Full HD 4K;1200000;4;4;CelularKuromi.png;fd96dcb1-9beb-4473-83c4-13aa1d2bbd7d_CelularKuromi.png@
+2;Portatil Kuromi Full HD 4K;3000000;6;1;PortatilKuromi.png;91b36baa-aa83-4d5a-9400-e23a1ced5040_PortatilKuromi.png@
+3;Televisor Kuromi Full HD 4K;500000500;1;3;TelevisorKuromi.png;851f8569-1e68-4ce1-9f9c-b74973747e1d_TelevisorKuromi.png@

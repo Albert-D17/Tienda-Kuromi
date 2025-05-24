@@ -1,0 +1,4 @@
+1;Portatiles;true;PortatilGamer.png;28b8389e-c2de-4f94-b67e-04853d90fa88_PortatilGamer.png@
+2;Camisas;false;CamisaNegraKuromi.png;1e23afac-e5a9-4392-a652-0be444108a0e_CamisaNegraKuromi.png@
+3;Televisores;true;televisor.jpg;5007d6d5-44ae-44d9-8014-9b3495146c72_televisor.jpg@
+4;Celulares;true;celular.png;2406b032-5982-47ca-9514-d6f458b38b83_celular.png@

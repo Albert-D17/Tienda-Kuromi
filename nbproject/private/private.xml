@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/pertu1019/OneDrive/Documentos/NetBeansProjects/TallerKuromiAlbert_Peña50/src/edu/poo/vista/varios/VistaAcerca.java</file>
+            <file>file:/C:/Users/pertu1019/OneDrive/Documentos/NetBeansProjects/TallerKuromiAlbert_Peña50/src/edu/poo/vista/categoria/VistaCategoCrear.java</file>
+            <file>file:/C:/Users/pertu1019/OneDrive/Documentos/NetBeansProjects/TallerKuromiAlbert_Peña50/src/edu/poo/aplicacion/Principal.java</file>
+            <file>file:/C:/Users/pertu1019/OneDrive/Documentos/NetBeansProjects/TallerKuromiAlbert_Peña50/src/edu/poo/recurso/dominio/Configuracion.java</file>
+            <file>file:/C:/Users/pertu1019/OneDrive/Documentos/NetBeansProjects/TallerKuromiAlbert_Peña50/src/edu/poo/recurso/dominio/IconoNombre.java</file>
+            <file>file:/C:/Users/pertu1019/OneDrive/Documentos/NetBeansProjects/TallerKuromiAlbert_Peña50/src/edu/poo/vista/categoria/VistaCategoAdmin.java</file>
+            <file>file:/C:/Users/pertu1019/OneDrive/Documentos/NetBeansProjects/TallerKuromiAlbert_Peña50/src/edu/poo/controlador/categoria/ControladorCategoEditar.java</file>
+            <file>file:/C:/Users/pertu1019/OneDrive/Documentos/NetBeansProjects/TallerKuromiAlbert_Peña50/src/edu/poo/vista/producto/VistaProductoListar.java</file>
+            <file>file:/C:/Users/pertu1019/OneDrive/Documentos/NetBeansProjects/TallerKuromiAlbert_Peña50/src/edu/poo/vista/varios/VistaCabecera.java</file>
+            <file>file:/C:/Users/pertu1019/OneDrive/Documentos/NetBeansProjects/TallerKuromiAlbert_Peña50/src/edu/poo/vista/producto/VistaProductoEditar.java</file>
+            <file>file:/C:/Users/pertu1019/OneDrive/Documentos/NetBeansProjects/TallerKuromiAlbert_Peña50/src/edu/poo/vista/producto/VistaProductoAdmin.java</file>
+            <file>file:/C:/Users/pertu1019/OneDrive/Documentos/NetBeansProjects/TallerKuromiAlbert_Peña50/src/edu/poo/persistencia/DAOProducto.java</file>
+            <file>file:/C:/Users/pertu1019/OneDrive/Documentos/NetBeansProjects/TallerKuromiAlbert_Peña50/src/edu/poo/vista/categoria/VistaCategoCarrusel.java</file>
+            <file>file:/C:/Users/pertu1019/OneDrive/Documentos/NetBeansProjects/TallerKuromiAlbert_Peña50/src/edu/poo/recurso/utilidad/Icono.java</file>
+            <file>file:/C:/Users/pertu1019/OneDrive/Documentos/NetBeansProjects/TallerKuromiAlbert_Peña50/src/edu/poo/vista/categoria/VistaCategoListar.java</file>
+            <file>file:/C:/Users/pertu1019/OneDrive/Documentos/NetBeansProjects/TallerKuromiAlbert_Peña50/src/edu/poo/controlador/categoria/ControladorCategoVentana.java</file>
+            <file>file:/C:/Users/pertu1019/OneDrive/Documentos/NetBeansProjects/TallerKuromiAlbert_Peña50/src/edu/poo/vista/producto/VistaProductoCrear.java</file>
+            <file>file:/C:/Users/pertu1019/OneDrive/Documentos/NetBeansProjects/TallerKuromiAlbert_Peña50/src/edu/poo/vista/categoria/VistaCategoEditar.java</file>
+        </group>
+    </open-files>
+</project-private>
